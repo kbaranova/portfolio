@@ -1,0 +1,35 @@
+/* Designing for scroll-bar */
+::-webkit-scrollbar {
+  width: 6px;
+  margin-left: 30px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: gainsboro;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  opacity: 0.7;
+  margin-right: 10px;
+}
+
+button:hover {
+  opacity: 1;
+}
