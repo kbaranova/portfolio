@@ -31,7 +31,7 @@ export default function Home() {
             rel="noreferrer"
           >
             <Image
-              src="/logos/LinkedIn.svg"
+              src="/logos/linkedin.svg"
               height={25}
               width={25}
               alt="Social logo"
@@ -209,7 +209,7 @@ export default function Home() {
             rel="noreferrer"
           >
             <Image
-              src="/logos/LinkedIn.svg"
+              src="/logos/linkedin.svg"
               height={30}
               width={30}
               alt="Social logo"
