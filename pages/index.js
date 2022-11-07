@@ -186,7 +186,7 @@ export default function Home() {
               text="A fun and engaging project that allows you to design your gradient background, buttons and text generating a Css code for your project."
               site="https://css-generators.netlify.app"
               git="https://github.com/kbaranova/generator.github.io"
-              logos={["HTML5", "CSS3", "Javascript"]}
+              logos={["HTML5", "CSS3", "JavaScript"]}
             />
             <Project
               title="Budget App"
