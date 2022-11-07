@@ -245,7 +245,7 @@ export default function Home() {
           This portfolio was made with Next.js, tsparticles and Framer Motion.
           Check its code on{" "}
           <a
-            href="https://kbaranova.github.io/portfolio/"
+            href="https://github.com/kbaranova/portfolio"
             target="_blank"
             className="text-link"
             rel="noreferrer"
