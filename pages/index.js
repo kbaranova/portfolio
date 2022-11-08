@@ -11,7 +11,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Kateryna Baranova - portfolio</title>
-        <link rel="icon" href="/logo.png" />
+        <link rel="icon" href="/public/logo.png" />
       </Head>
       <main>
         <ParticlesBG />
